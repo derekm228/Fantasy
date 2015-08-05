@@ -458,3 +458,9 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+@media(max-width:767px) {
+    header .intro-text .name {
+        font-size: 1em;
+    }
+}
